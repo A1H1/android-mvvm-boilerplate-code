@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Boilerplate</string>
+
+    <!--Errors-->
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="no_internet">No Internet</string>
+    <string name="server_timeout">Server Timeout</string>
+</resources>
